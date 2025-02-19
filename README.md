@@ -1,2 +1,2 @@
-# microsof flight simulator utility
+# microsoft flight simulator utility
 
